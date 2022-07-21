@@ -11,7 +11,7 @@ Hi, I'm an Android Developer, I'm enthusiastic towards my work. I'm working on A
  
 ## 🔗 Links
 [portfolio](https://rahulmadheshiya.netlify.app/) 
-[Instagram](https://www.instagram.com/rahul_rkms/)
+[![Instagram](https://www.instagram.com/rahul_rkms/)](https://instagram.com/)
 
 ## 🛠 Skills
 Android, Java, C, PHP, HTML, CSS
