@@ -43,8 +43,8 @@ Here are some of the Android projects I've worked on:
 
 Feel free to reach out to me through the following channels:
 
-- GitHub: [Rahul MAdheshiya](https://github.com/rahulrkms)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rahul-madheshiya-b1836a154)
+- GitHub: [Rahul Kumar Madheshiya](https://github.com/rahulrkms)
+- LinkedIn: [Rahul Kumar Madheshiya](https://www.linkedin.com/in/rahul-madheshiya-b1836a154)
 
 
 Let's connect, collaborate, and build awesome Android apps together!
