@@ -21,23 +21,15 @@ I also do Dropshhipping, i have copmpleted many projects for clients.
 
 Here are some of the Android projects I've worked on:
 
-### [Project 1 Name](Link to Project Repository)
-![Project 1](Project_1_Screenshot.png)
-- Brief description of the project.
-- Technologies and tools used.
-- Any notable achievements or challenges.
+### [Bharat Loan App](https://github.com/rahulrkms/BharatLoanAPP)
+- BharatLoan is a mobile application that enables users of smartphones and other mobile devices to apply for and receive loans. The majority of these apps are provided by online lenders, who use technology to speed up the loan application process and fund access.
+- Android, Java, PHP, XML , Retrofit
 
-### [Project 2 Name](Link to Project Repository)
+### [Quicky job Android APp](https://github.com/rahulrkms/Quicky-Job_Android_App)
 ![Project 2](Project_2_Screenshot.png)
-- Brief description of the project.
-- Technologies and tools used.
-- Any notable achievements or challenges.
+- Quickey job is an application that employers ask job applicants to fill out to learn about their work history. You may fill out the application through a third-party job listing site or by visiting the website of the potential employer.  
+- Technologies and tools used: Android, Java, PHP, MySQL, Retrofit Library 
 
-### [Project 3 Name](Link to Project Repository)
-![Project 3](Project_3_Screenshot.png)
-- Brief description of the project.
-- Technologies and tools used.
-- Any notable achievements or challenges.
 
 ## Contact Me
 
