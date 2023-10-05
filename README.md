@@ -11,7 +11,7 @@ Hi, I'm an Android Developer, I'm enthusiastic towards my work. I'm working on A
  
 ## 🔗 Links
 [portfolio](https://rahulkumarrkms5.wixsite.com/rahul-1) 
-[![Instagram](in/rahul-madheshiya-b1836a154)
+[![Instagram]([in/rahul-madheshiya-b1836a154](https://msng.link/o?rahul_rkms=ig))
 
 ## 🛠 Skills
 Android, Java, C, PHP, HTML, CSS
