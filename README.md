@@ -1,27 +1,7 @@
+# Hello, I'm Rahul Kuamr Madheshiya 👋
 
-# Hi there 👋, I'm Rahul Madheshiya! 
-
-
-## 🚀 About Me
-Hi, I'm an Android Developer, I have done many projects for clients,  I'm enthusiastic towards my work. I'm working on Android Projects and APIs,
-I also 
-
-
-
-
-## 🛠 Skills
-Android, Java, C, PHP, HTML, CSS
-
-# Hello, I'm [Your Name] 👋
-
-I'm a passionate Android developer with [2] years of experience in creating mobile applications that enhance user experiences. I'm dedicated to staying up-to-date with the latest trends and technologies in the Android ecosystem.
-I also do Dropshhipping, i have done copmpleted many projects for clients. 
-
-## You can reach me ⚡
-
-## 🔗 Links
-[portfolio](https://rahulkumarrkms5.wixsite.com/rahul-1) 
-[![Instagram]([))
+I'm a passionate Android developer with 2 years of experience in creating mobile applications that enhance user experiences. I'm dedicated to staying up-to-date with the latest trends and technologies in the Android ecosystem.
+I also do Dropshhipping, i have copmpleted many projects for clients. 
 
 🚀 **Skills:**
 - Java
